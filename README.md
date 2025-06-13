@@ -1,1 +1,1 @@
-# BGRemover
+BG Remover is a lightweight, AI-based web application that lets users quickly remove the background from any image. Just upload a photo, and BG Remover automatically extracts the subject, giving you a clean, transparent background — ideal for e-commerce, content creation, design work, or profile pictures.
